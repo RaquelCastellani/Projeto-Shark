@@ -16,4 +16,4 @@ Na verdade o real motivo é que os surfistas possuem caracteristicas semelhantes
 
 <img src= "https://user-images.githubusercontent.com/99897035/161889916-e0020c97-cd49-406e-ae16-b8702da3cb42.jpg" width="300px" />
 
-A pesca fica em segundo lugar, de acordo com pesquisas ocorre pelo cheiro de sangue da pesca ou por se sentirem ameaçados.
+A pesca fica em segundo lugar, de acordo com pesquisas ocorre pelo cheiro de sangue das iscas utilizadas ou por se sentirem ameaçados.
