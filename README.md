@@ -1,6 +1,6 @@
 
 <span align="center">
-<h1> Projeto Shark Attack! </h1>
+<h1> :shark: Projeto Shark Attack! :shark: </h1>
 </span>
 
 <div align="center">
