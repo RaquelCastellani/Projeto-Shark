@@ -10,4 +10,9 @@
 
 ## **Quais os esportistas preferidos dos tubarões ?**
 
-De acordo com os dados analisados os surfistas ainda são os preferidos, será pelo sabor ? Um padrão hormonal ? Adrenalina ? Endorfina ? :thinking:
+De acordo com os dados analisados os surfistas ainda são os preferidos. Será pelo sabor ? Um padrão hormonal ? Adrenalina ? Endorfina ? :thinking:
+
+Na verdade o real motivo é que os surfistas possuem caracteristicas semelhantes a tartaruga marinha ou ao leão marinho, sendo fácilmente confundidos !
+A pesca é a segunda maior atividade que sofrem ataques, de acordo com pesquisas ocorre pelo cheiro de sangue da pesca ou por se sentirem ameaçados.
+
+<img src= "" width="700px" />
