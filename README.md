@@ -25,6 +25,6 @@ Para realização desse projeto utilizei as bibliotecas NumPy, Pandas, Matplotli
 Usei filtros e funções para organizar e limpar os dados de acordo com o necessário para responder minha pergunta inicial !
 
 
-## ** Planos futuros** 
+## **Planos futuros** 
 
 Irei limpar outras colunas e associar aos dados já limpos a fim de obter mais respostas e possiveis novas correlações.
