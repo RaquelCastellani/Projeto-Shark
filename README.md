@@ -17,3 +17,14 @@ Na verdade o real motivo é que os surfistas possuem caracteristicas semelhantes
 <img src= "https://user-images.githubusercontent.com/99897035/161889916-e0020c97-cd49-406e-ae16-b8702da3cb42.jpg" width="300px" />
 
 A pesca fica em segundo lugar, de acordo com pesquisas ocorre pelo cheiro de sangue das iscas utilizadas ou por se sentirem ameaçados.
+
+
+## **Bibliotecas utilizadas** 
+
+Para realização desse projeto utilizei as bibliotecas NumPy, Pandas, Matplotlib e Regex.. 
+Usei filtros e funções para organizar e limpar os dados de acordo com o necessário para responder minha pergunta inicial !
+
+
+## ** Planos futuros** 
+
+Irei limpar outras colunas e associar aos dados já limpos a fim de obter mais respostas e possiveis novas correlações.
